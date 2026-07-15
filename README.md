@@ -28,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/SparshAg19/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/SparshAg19/LeetCode/tree/master/0069-sqrtx) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SparshAg19/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SparshAg19/LeetCode/tree/master/0029-divide-two-integers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SparshAg19/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
