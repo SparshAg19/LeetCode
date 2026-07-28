@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SparshAg19/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SparshAg19/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/SparshAg19/LeetCode/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshAg19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
