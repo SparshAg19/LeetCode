@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SparshAg19/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SparshAg19/LeetCode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/SparshAg19/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SparshAg19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SparshAg19/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SparshAg19/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SparshAg19/LeetCode/tree/master/0069-sqrtx) |
 ## Math
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/SparshAg19/LeetCode/tree/master/0183-customers-who-never-order) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SparshAg19/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
