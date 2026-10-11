@@ -6,7 +6,6 @@ class Solution {
                 sum += nums[i] * nums[i];
             }
         }
-
         return sum;
     }
 }
